@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArunKumarNagidi
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 👀 I’m interested in Web application development
 - 💞️ I’m looking to collaborate on any company that give oppurtunity.
 - 📫 How to reach me ...
 -    Linkedin Profile:https://www.linkedin.com/in/arun-kumar-nagidi-b81332291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
